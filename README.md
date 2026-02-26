@@ -26,7 +26,4 @@ Requisiti
 macOS compatibile con Logic Pro 10.7.4
 Logic Pro installato sul Mac
 
-Autore
-Sviluppato da Giovanni Tassini
-
 Se hai problemi o suggerimenti, apri una Issue su questo repository.
